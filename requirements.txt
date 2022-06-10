@@ -1,4 +1,4 @@
-sqlite3
+db-sqlite3
 validate_email
 aiogram
 logging
